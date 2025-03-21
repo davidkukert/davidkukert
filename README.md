@@ -6,5 +6,6 @@
     -  PHP
     -  Postgres
     -  HTML & CSS
+    -  RUST
    
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,bun,php,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,nodejs,bun,php,postgres)](https://skillicons.dev)
